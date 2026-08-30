@@ -1,0 +1,16 @@
+PS C:\Users\jeanl\Documents\Physics\Gemini\Electron interference - bullet model> python Bullet.py
+-> Angle Upper Boundary (2-sigma): 6.060606e-06 rad
+-> Calculated Angular Sigma:       3.030303e-06 rad
+-> Electrons entering the tunnel: 190967 / 200000
+-> Electrons colliding with walls: 0 (0.0000%)
+PS C:\Users\jeanl\Documents\Physics\Gemini\Electron interference - bullet model> python Bullet.py
+-> Angle Upper Boundary (2-sigma): 6.060606e-06 rad
+-> Calculated Angular Sigma:       3.030303e-06 rad
+-> Electrons entering the tunnel: 190800 / 200000
+-> Electrons colliding with walls: 0 (0.0000%)
+PS C:\Users\jeanl\Documents\Physics\Gemini\Electron interference - bullet model> python Bullet_uniform.py
+-> Angle Upper Boundary (Uniform Spread): +/- 6.060606e-06 rad
+-> Electrons entering the tunnel: 200000 / 200000
+-> Electrons colliding with walls: 0 (0.0000%)
+-> Output saved successfully to 'Ballistic_Uniform_Baseline.png'
+PS C:\Users\jeanl\Documents\Physics\Gemini\Electron interference - bullet model>
